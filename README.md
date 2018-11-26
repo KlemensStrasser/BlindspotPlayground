@@ -1,4 +1,4 @@
-# Blindspot Playground (WWDC18 Scholarship Submission)
+# Blindspot Playground (WWDC18 Scholarship Submission, accepted)
 ## Overview
 
 Video games are so heavily reliant on visuals that making them accessible for blind people is often not even possible. That’s why I’ve created this Playground. Blindspot is a puzzle game thats playable by blind people and gives people with full eye sight an glimpse of how hard it is to solve a puzzle without actually seeing it. 
